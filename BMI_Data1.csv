@@ -1,0 +1,501 @@
+Gender,Weight(in Kg),Height(in m),BMI,Index
+0,96,1.74,96,Obesity
+0,87,1.89,87,Normal
+1,110,1.85,110,Obesity
+1,104,1.95,104,Overweight
+0,61,1.49,61,Overweight
+0,104,1.89,104,Overweight
+0,92,1.47,92,Extreme Obesity
+0,111,1.54,111,Extreme Obesity
+0,90,1.74,90,Overweight
+1,103,1.69,103,Obesity
+0,81,1.95,81,Normal
+1,80,1.59,80,Obesity
+1,101,1.92,101,Overweight
+0,51,1.55,51,Normal
+0,79,1.91,79,Normal
+1,107,1.53,107,Extreme Obesity
+1,110,1.57,110,Extreme Obesity
+0,129,1.4,129,Extreme Obesity
+0,145,1.44,145,Extreme Obesity
+0,139,1.72,139,Extreme Obesity
+0,110,1.57,110,Extreme Obesity
+1,149,1.53,149,Extreme Obesity
+1,97,1.69,97,Obesity
+0,139,1.85,139,Extreme Obesity
+1,67,1.72,67,Normal
+1,64,1.51,64,Overweight
+0,95,1.9,95,Overweight
+0,62,1.87,62,Weak
+1,159,1.63,159,Extreme Obesity
+0,152,1.79,152,Extreme Obesity
+0,121,1.53,121,Extreme Obesity
+0,52,1.78,52,Weak
+1,65,1.95,65,Weak
+1,131,1.6,131,Extreme Obesity
+1,153,1.57,153,Extreme Obesity
+1,132,1.89,132,Obesity
+1,114,1.97,114,Overweight
+0,80,1.44,80,Obesity
+1,152,1.71,152,Extreme Obesity
+1,81,1.85,81,Normal
+1,120,1.75,120,Obesity
+1,108,1.49,108,Extreme Obesity
+0,56,1.57,56,Normal
+0,118,1.61,118,Extreme Obesity
+1,126,1.82,126,Obesity
+0,76,1.85,76,Normal
+1,122,1.88,122,Obesity
+0,111,1.81,111,Obesity
+0,72,1.61,72,Overweight
+0,152,1.4,152,Extreme Obesity
+1,135,1.68,135,Extreme Obesity
+1,54,1.76,54,Weak
+0,110,1.63,110,Extreme Obesity
+0,105,1.72,105,Obesity
+0,116,1.96,116,Obesity
+1,89,1.87,89,Overweight
+0,92,1.72,92,Obesity
+0,127,1.78,127,Extreme Obesity
+1,70,1.64,70,Overweight
+0,88,1.43,88,Extreme Obesity
+1,54,1.91,54,Extremely Weak
+1,143,1.41,143,Extreme Obesity
+0,54,1.93,54,Extremely Weak
+0,83,1.9,83,Normal
+0,135,1.75,135,Extreme Obesity
+1,158,1.79,158,Extreme Obesity
+1,96,1.72,96,Obesity
+1,59,1.68,59,Normal
+1,82,1.64,82,Obesity
+1,136,1.94,136,Obesity
+1,51,1.53,51,Normal
+0,117,1.78,117,Obesity
+0,80,1.41,80,Extreme Obesity
+0,75,1.8,75,Normal
+1,100,1.85,100,Overweight
+1,154,1.97,154,Obesity
+0,104,1.65,104,Obesity
+1,90,1.68,90,Obesity
+1,122,1.76,122,Obesity
+0,51,1.81,51,Extremely Weak
+0,75,1.64,75,Overweight
+1,140,1.66,140,Extreme Obesity
+1,105,1.9,105,Overweight
+0,118,1.86,118,Obesity
+0,123,1.68,123,Extreme Obesity
+0,50,1.98,50,Extremely Weak
+1,141,1.75,141,Extreme Obesity
+0,117,1.45,117,Extreme Obesity
+1,104,1.59,104,Extreme Obesity
+1,140,1.85,140,Extreme Obesity
+1,154,1.78,154,Extreme Obesity
+1,96,1.83,96,Overweight
+1,111,1.94,111,Overweight
+0,61,1.77,61,Normal
+0,119,1.97,119,Obesity
+1,156,1.7,156,Extreme Obesity
+0,69,1.42,69,Obesity
+0,139,1.6,139,Extreme Obesity
+0,69,1.95,69,Weak
+1,50,1.9,50,Extremely Weak
+0,156,1.99,156,Obesity
+0,105,1.54,105,Extreme Obesity
+0,155,1.61,155,Extreme Obesity
+1,145,1.98,145,Obesity
+1,140,1.92,140,Obesity
+0,126,1.95,126,Obesity
+0,160,1.66,160,Extreme Obesity
+0,154,1.59,154,Extreme Obesity
+1,106,1.81,106,Obesity
+0,66,1.49,66,Overweight
+1,70,1.5,70,Obesity
+1,157,1.46,157,Extreme Obesity
+0,135,1.9,135,Obesity
+1,90,1.92,90,Normal
+1,96,1.77,96,Obesity
+0,60,1.48,60,Overweight
+1,57,1.65,57,Normal
+1,104,1.46,104,Extreme Obesity
+0,108,1.44,108,Extreme Obesity
+1,156,1.76,156,Extreme Obesity
+1,87,1.68,87,Obesity
+0,122,1.87,122,Obesity
+0,138,1.87,138,Obesity
+1,160,1.84,160,Extreme Obesity
+1,149,1.58,149,Extreme Obesity
+0,96,1.58,96,Obesity
+0,115,1.94,115,Obesity
+1,79,1.45,79,Obesity
+0,151,1.82,151,Extreme Obesity
+0,54,1.54,54,Normal
+1,139,1.68,139,Extreme Obesity
+1,70,1.87,70,Normal
+1,153,1.58,153,Extreme Obesity
+1,110,1.67,110,Obesity
+1,155,1.71,155,Extreme Obesity
+1,150,1.83,150,Extreme Obesity
+1,156,1.9,156,Extreme Obesity
+0,108,1.94,108,Overweight
+0,147,1.71,147,Extreme Obesity
+0,124,1.59,124,Extreme Obesity
+1,54,1.69,54,Normal
+1,85,1.67,85,Obesity
+0,149,1.8,149,Extreme Obesity
+0,123,1.63,123,Extreme Obesity
+0,79,1.4,79,Extreme Obesity
+0,125,1.97,125,Obesity
+0,106,1.94,106,Overweight
+1,146,1.4,146,Extreme Obesity
+0,98,1.95,98,Overweight
+1,115,1.68,115,Overweight
+1,50,1.96,50,Extremely Weak
+0,52,1.4,52,Overweight
+1,60,1.5,60,Overweight
+1,140,1.68,140,Extreme Obesity
+1,111,1.55,111,Extreme Obesity
+1,103,1.79,103,Obesity
+1,84,1.82,84,Overweight
+0,160,1.68,160,Extreme Obesity
+1,102,1.87,102,Overweight
+0,105,1.81,105,Obesity
+0,99,1.99,99,Normal
+1,76,1.84,76,Normal
+0,101,1.92,101,Overweight
+1,143,1.82,143,Extreme Obesity
+1,111,1.72,111,Obesity
+0,78,1.81,78,Normal
+0,109,1.76,109,Obesity
+1,106,1.56,106,Extreme Obesity
+1,67,1.51,67,Overweight
+1,80,1.88,80,Normal
+0,136,1.87,136,Obesity
+0,138,1.74,138,Extreme Obesity
+0,151,1.67,151,Extreme Obesity
+1,131,1.96,131,Obesity
+0,149,1.97,149,Obesity
+1,119,1.85,119,Obesity
+1,102,1.7,102,Obesity
+1,94,1.81,94,Overweight
+1,126,1.66,126,Extreme Obesity
+0,100,1.88,100,Overweight
+1,74,1.62,74,Overweight
+0,117,1.77,117,Obesity
+0,97,1.62,97,Obesity
+0,73,1.8,73,Normal
+1,108,1.92,108,Overweight
+0,80,1.65,80,Overweight
+1,135,1.67,135,Extreme Obesity
+1,84,1.82,84,Overweight
+1,134,1.61,134,Extreme Obesity
+0,95,1.58,95,Obesity
+0,85,1.41,85,Extreme Obesity
+0,100,1.54,100,Extreme Obesity
+0,105,1.65,105,Obesity
+1,137,1.42,137,Extreme Obesity
+0,94,1.41,94,Extreme Obesity
+0,108,1.45,108,Extreme Obesity
+0,74,1.57,74,Obesity
+1,117,1.77,117,Obesity
+1,144,1.66,144,Extreme Obesity
+0,151,1.93,151,Extreme Obesity
+0,57,1.84,57,Weak
+0,93,1.79,93,Overweight
+1,89,1.56,89,Obesity
+0,104,1.82,104,Obesity
+0,160,1.45,160,Extreme Obesity
+1,87,1.5,87,Obesity
+0,99,1.45,99,Extreme Obesity
+1,122,1.96,122,Obesity
+0,96,1.91,96,Overweight
+1,67,1.48,67,Obesity
+1,84,1.5,84,Obesity
+0,155,1.48,155,Extreme Obesity
+1,146,1.53,146,Extreme Obesity
+1,159,1.96,159,Extreme Obesity
+1,52,1.85,52,Extremely Weak
+1,131,1.71,131,Extreme Obesity
+1,118,1.43,118,Extreme Obesity
+1,86,1.42,86,Extreme Obesity
+1,126,1.41,126,Extreme Obesity
+0,109,1.59,109,Extreme Obesity
+1,82,1.73,82,Normal
+0,138,1.83,138,Extreme Obesity
+1,90,1.52,90,Obesity
+0,140,1.78,140,Extreme Obesity
+0,54,1.88,54,Extremely Weak
+1,144,1.55,144,Extreme Obesity
+0,70,1.66,70,Overweight
+0,123,1.88,123,Obesity
+1,120,1.71,120,Extreme Obesity
+0,130,1.79,130,Extreme Obesity
+1,137,1.86,137,Obesity
+1,78,1.53,78,Normal
+1,86,1.84,86,Overweight
+1,81,1.77,81,Overweight
+0,78,1.45,78,Obesity
+0,81,1.7,81,Overweight
+0,141,1.81,141,Extreme Obesity
+0,155,1.65,155,Extreme Obesity
+1,65,1.74,65,Normal
+1,110,1.46,110,Extreme Obesity
+0,85,1.78,85,Overweight
+0,61,1.66,61,Normal
+0,62,1.91,62,Weak
+1,155,1.77,155,Extreme Obesity
+1,50,1.83,50,Extremely Weak
+0,114,1.51,114,Extreme Obesity
+0,98,1.82,98,Overweight
+1,159,1.42,159,Extreme Obesity
+1,90,1.88,90,Overweight
+0,89,1.61,89,Obesity
+0,70,1.53,70,Overweight
+0,143,1.4,143,Extreme Obesity
+0,141,1.69,141,Extreme Obesity
+1,159,1.62,159,Extreme Obesity
+0,147,1.83,147,Extreme Obesity
+1,58,1.62,58,Normal
+1,109,1.72,109,Obesity
+1,119,1.5,119,Extreme Obesity
+1,145,1.69,145,Extreme Obesity
+1,132,1.84,132,Obesity
+0,104,1.59,104,Extreme Obesity
+0,131,1.63,131,Extreme Obesity
+0,137,1.56,137,Extreme Obesity
+1,52,1.57,52,Normal
+0,84,1.47,84,Obesity
+0,86,1.41,86,Extreme Obesity
+0,139,1.73,139,Extreme Obesity
+0,145,1.54,145,Extreme Obesity
+0,148,1.68,148,Extreme Obesity
+0,50,1.68,50,Weak
+0,130,1.45,130,Extreme Obesity
+0,103,1.52,103,Extreme Obesity
+1,121,1.87,121,Obesity
+1,57,1.63,57,Extremely Weak
+0,83,1.78,83,Overweight
+1,94,1.87,94,Overweight
+1,114,1.79,114,Obesity
+0,80,1.9,80,Normal
+0,75,1.72,75,Overweight
+0,57,1.88,57,Weak
+0,65,1.93,65,Weak
+1,126,1.47,126,Extreme Obesity
+1,94,1.47,94,Extreme Obesity
+0,107,1.66,107,Obesity
+1,139,1.92,139,Obesity
+0,139,1.81,139,Obesity
+0,74,1.5,74,Obesity
+0,160,1.78,160,Extreme Obesity
+1,52,1.56,52,Normal
+0,100,1.49,100,Extreme Obesity
+0,74,1.56,74,Obesity
+0,105,1.83,105,Overweight
+1,68,1.62,68,Overweight
+1,83,1.65,83,Obesity
+1,143,1.68,143,Extreme Obesity
+0,156,1.6,156,Extreme Obesity
+1,88,1.69,88,Normal
+1,76,1.4,76,Obesity
+1,92,1.87,92,Overweight
+0,82,1.51,82,Obesity
+1,140,1.86,140,Extreme Obesity
+0,108,1.82,108,Obesity
+0,81,1.88,81,Normal
+0,110,1.79,110,Obesity
+1,126,1.56,126,Extreme Obesity
+0,114,1.88,114,Obesity
+0,153,1.83,153,Extreme Obesity
+0,88,1.44,88,Extreme Obesity
+0,69,1.96,69,Weak
+0,141,1.71,141,Extreme Obesity
+0,147,1.71,147,Extreme Obesity
+1,156,1.8,156,Extreme Obesity
+0,146,1.91,146,Extreme Obesity
+1,67,1.79,67,Normal
+1,60,1.8,60,Normal
+1,132,1.54,132,Extreme Obesity
+0,99,1.88,99,Overweight
+0,135,1.42,135,Extreme Obesity
+0,95,1.7,95,Obesity
+0,141,1.52,141,Extreme Obesity
+1,118,1.9,118,Obesity
+1,111,1.81,111,Obesity
+0,104,1.53,104,Extreme Obesity
+0,140,1.87,140,Extreme Obesity
+1,66,1.44,66,Obesity
+1,54,1.48,54,Normal
+1,92,1.99,92,Normal
+1,85,1.67,85,Obesity
+1,71,1.64,71,Overweight
+1,102,1.85,102,Overweight
+1,160,1.64,160,Extreme Obesity
+0,71,1.42,71,Obesity
+0,68,1.65,68,Normal
+1,62,1.72,62,Normal
+1,56,1.57,56,Normal
+0,57,1.55,57,Normal
+1,153,1.67,153,Extreme Obesity
+1,126,1.64,126,Extreme Obesity
+1,125,1.89,125,Obesity
+1,145,1.61,145,Extreme Obesity
+1,71,1.55,71,Overweight
+1,118,1.71,118,Obesity
+1,92,1.54,92,Obesity
+0,83,1.79,83,Overweight
+0,115,1.7,115,Obesity
+1,106,1.84,106,Obesity
+1,68,1.91,68,Normal
+0,58,1.62,58,Normal
+0,138,1.78,138,Extreme Obesity
+1,60,1.57,60,Normal
+0,83,1.84,83,Normal
+0,88,1.97,88,Normal
+1,51,1.6,51,Normal
+0,153,1.84,153,Extreme Obesity
+0,50,1.9,50,Extremely Weak
+0,90,1.74,90,Overweight
+1,124,1.89,124,Obesity
+1,143,1.86,143,Extreme Obesity
+1,58,1.8,58,Weak
+1,148,1.86,148,Obesity
+1,61,1.93,61,Weak
+0,103,1.61,103,Obesity
+1,158,1.51,158,Extreme Obesity
+1,147,1.95,147,Obesity
+1,152,1.84,152,Extreme Obesity
+0,80,1.41,80,Extreme Obesity
+1,94,1.85,94,Overweight
+1,127,1.86,127,Obesity
+0,131,1.42,131,Extreme Obesity
+1,67,1.47,67,Obesity
+0,62,1.51,62,Overweight
+1,124,1.6,124,Extreme Obesity
+0,60,1.85,60,Weak
+1,63,1.63,63,Normal
+0,95,1.74,95,Obesity
+1,144,1.5,144,Extreme Obesity
+0,91,1.42,91,Extreme Obesity
+0,142,1.78,142,Extreme Obesity
+1,96,1.54,96,Extreme Obesity
+0,87,1.76,87,Overweight
+0,120,1.59,120,Extreme Obesity
+0,62,1.91,62,Weak
+0,117,1.77,117,Obesity
+0,154,1.51,154,Extreme Obesity
+1,149,1.82,149,Extreme Obesity
+1,72,1.97,72,Normal
+0,138,1.46,138,Extreme Obesity
+1,83,1.6,83,Obesity
+1,66,1.57,66,Overweight
+1,50,1.5,50,Normal
+1,58,1.67,58,Normal
+1,70,1.8,70,Normal
+1,76,1.83,76,Normal
+1,87,1.83,87,Overweight
+1,154,1.52,154,Extreme Obesity
+1,71,1.64,71,Overweight
+0,96,1.87,96,Overweight
+0,136,1.69,136,Extreme Obesity
+1,61,1.49,61,Overweight
+0,137,1.63,137,Extreme Obesity
+1,104,1.95,104,Overweight
+0,107,1.74,107,Obesity
+0,70,1.82,70,Normal
+0,110,1.69,110,Obesity
+0,130,1.93,130,Obesity
+0,141,1.48,141,Extreme Obesity
+0,68,1.86,68,Normal
+0,143,1.65,143,Extreme Obesity
+1,123,1.46,123,Extreme Obesity
+1,133,1.66,133,Extreme Obesity
+0,56,1.79,56,Weak
+1,101,1.77,101,Obesity
+0,154,1.81,154,Extreme Obesity
+1,154,1.61,154,Extreme Obesity
+1,103,1.57,103,Extreme Obesity
+1,98,1.69,98,Obesity
+1,114,1.52,114,Extreme Obesity
+1,64,1.62,64,Normal
+0,130,1.62,130,Extreme Obesity
+1,61,1.77,61,Normal
+1,61,1.95,61,Weak
+0,146,1.4,146,Extreme Obesity
+1,146,1.86,146,Extreme Obesity
+1,107,1.78,107,Obesity
+0,54,1.74,54,Weak
+1,59,1.8,59,Weak
+0,141,1.88,141,Obesity
+1,130,1.87,130,Obesity
+1,77,1.53,77,Obesity
+1,95,1.65,95,Obesity
+1,79,1.78,79,Normal
+1,154,1.63,154,Extreme Obesity
+1,97,1.5,97,Extreme Obesity
+0,127,1.79,127,Obesity
+0,62,1.65,62,Normal
+0,158,1.68,158,Extreme Obesity
+1,133,1.53,133,Extreme Obesity
+0,157,1.84,157,Extreme Obesity
+0,65,1.88,65,Weak
+1,153,1.66,153,Extreme Obesity
+1,116,1.72,116,Obesity
+0,73,1.82,73,Normal
+0,149,1.43,149,Extreme Obesity
+0,146,1.52,146,Extreme Obesity
+1,128,1.86,128,Obesity
+0,140,1.59,140,Extreme Obesity
+0,70,1.46,70,Obesity
+1,121,1.76,121,Obesity
+1,101,1.46,101,Extreme Obesity
+0,145,1.59,145,Extreme Obesity
+0,157,1.62,157,Extreme Obesity
+1,90,1.72,90,Obesity
+1,121,1.69,121,Extreme Obesity
+0,50,1.82,50,Extremely Weak
+1,79,1.83,79,Normal
+0,77,1.76,77,Normal
+1,128,1.88,128,Obesity
+1,83,1.75,83,Normal
+0,81,1.54,81,Obesity
+1,147,1.84,147,Extreme Obesity
+0,123,1.79,123,Obesity
+0,132,1.52,132,Extreme Obesity
+0,56,1.79,56,Weak
+1,141,1.45,141,Extreme Obesity
+1,80,1.81,80,Normal
+0,127,1.58,127,Extreme Obesity
+1,99,1.88,99,Overweight
+0,142,1.45,142,Extreme Obesity
+0,115,1.61,115,Extreme Obesity
+0,109,1.98,109,Overweight
+0,142,1.47,142,Extreme Obesity
+0,112,1.54,112,Extreme Obesity
+1,65,1.78,65,Normal
+0,153,1.95,153,Extreme Obesity
+1,79,1.67,79,Overweight
+0,131,1.83,131,Obesity
+1,142,1.64,142,Extreme Obesity
+0,64,1.67,64,Normal
+1,55,1.51,55,Normal
+1,107,1.47,107,Extreme Obesity
+1,115,1.55,115,Extreme Obesity
+1,108,1.72,108,Obesity
+1,86,1.42,86,Extreme Obesity
+0,85,1.46,85,Obesity
+1,115,1.88,115,Obesity
+0,111,1.73,111,Obesity
+1,109,1.6,109,Extreme Obesity
+0,80,1.87,80,Normal
+0,136,1.98,136,Obesity
+1,150,1.79,150,Extreme Obesity
+1,59,1.64,59,Normal
+1,147,1.46,147,Extreme Obesity
+1,50,1.98,50,Extremely Weak
+1,53,1.7,53,Weak
+0,98,1.52,98,Extreme Obesity
+1,153,1.5,153,Extreme Obesity
+1,121,1.84,121,Obesity
+1,136,1.41,136,Extreme Obesity
+0,95,1.5,95,Extreme Obesity
+0,131,1.73,131,Extreme Obesity
